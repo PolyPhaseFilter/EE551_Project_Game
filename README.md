@@ -21,5 +21,8 @@ turn-based game core algrithms
 character design
 map design
 
+code will code under visual studio environment
+
+
 License
 This software is licensed under the GNU General Public License v3.0 License.
