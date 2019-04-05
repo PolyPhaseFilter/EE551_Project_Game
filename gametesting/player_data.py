@@ -1,5 +1,6 @@
 # player data module
 
+
 class Player():
     def __init__(self, life_points=10, atk_power=0, atk_range=0, atk_speed=1.0, ult_range=0, ult_style=0
                  , ult_cool_down=0, movement_speed=60):
@@ -17,3 +18,7 @@ class Player():
 
     def takeHit(self, atk_power=0):
         self.life_points -= atk_power
+
+player_one = Player()
+player_two = Player()
+

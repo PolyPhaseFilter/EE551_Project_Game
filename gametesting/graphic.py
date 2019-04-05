@@ -1,5 +1,7 @@
 
 import pygame
+import map
+from map import *
 import player_data
 from player_data import *
 
@@ -9,10 +11,11 @@ G = (0, 255, 0)
 R = (255, 0, 0)
 B = (0, 0, 255)
 
-pygame.init()
+screen =pygame.display.set_mode((0,0))
 
-set_screen_size = (1280, 720)
-set_screen = pygame.display.set_mode(set_screen_size)
-pygame.display.set_caption("HAHAHAHA")
 
-done = False
+def set_screen(set_screen_size, screen):
+    screen= pygame.display.set_mode(set_screen_size)
+    pygame.display.set_caption("HAHAHAHA")
+
+   

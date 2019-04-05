@@ -25,6 +25,12 @@
     <Compile Include="graphic.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="map.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="character.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="player_data.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
