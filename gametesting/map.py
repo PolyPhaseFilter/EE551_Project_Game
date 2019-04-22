@@ -3,7 +3,10 @@ import pygame
 import math
 import graphic
 from graphic import *
-
+import shape_data
+from shape_data import *
+import player_data
+from player_data import *
 class map():
     def __init__(self, map_number=0):
         self.map_number = map_number
@@ -51,4 +54,7 @@ class map():
             pygame.draw.line(graphic.screen, graphic.BL, [400, 180+2*i*80], [400,260+2*i*80], 5)
             pygame.draw.line(graphic.screen, graphic.BL, [800, 180+2*i*80], [800,260+2*i*80], 5)
 
-    def draw_character(self):
+  
+
+
+        

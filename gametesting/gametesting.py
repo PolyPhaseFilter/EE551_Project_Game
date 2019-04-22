@@ -40,7 +40,9 @@ while not done:
     map_selection = 2
     running_map = map(map_selection)
     map.draw_map(running_map)
-   
+    # --- Drawing character
+    player_one.color=graphic.B
+    player_two.color=graphic.R
     #display update
     pygame.display.flip()
 
