@@ -40,6 +40,7 @@ class map():
             pygame.draw.line(graphic.screen, graphic.BL, [0, i], [1280,i], 5)
         for i in (10,1270):
             pygame.draw.line(graphic.screen, graphic.BL, [i, 20], [i,720], 5)
+
         #map core
         for i in range (20,710, 80):
             pygame.draw.line(graphic.screen, graphic.BL, [80, i], [400,i], 5)
