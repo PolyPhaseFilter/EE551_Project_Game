@@ -9,20 +9,22 @@ this project is a turn-based strategy game.
 
 Features:
 game characters and functions
-map changes
-damage calculator
-upgrade center
+map changes(done)
+damage calculator(not finished)
+upgrade center(not going to achieve)
 colloctions(titles, skins)
 
 Todo
-Game structure design
-game research
-turn-based game core algrithms
-character design
-map design
+Game structure design(done)
+game research(done)
+turn-based game core algrithms(done)
+character design(done)
+map design(done)
+tank character design(done)
+super tank mode(not yet designed)
 
 code will code under visual studio environment
 
 
 License
-This software is licensed under the GNU General Public License v3.0 License.
+This software is licensed under pygame.
