@@ -20,6 +20,8 @@ game research(done)
 turn-based game core algrithms(done)
 character design(done)
 map design(done)
+tank character design(done)
+super tank mode(not yet designed)
 
 code will code under visual studio environment
 
