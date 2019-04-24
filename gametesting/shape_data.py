@@ -6,6 +6,7 @@ import map
 from map import *
 
 #need fix
+# tank mode, not yet designed........
 class shape_tpye():
     def __init__(self, file_name):
         """ Constructor. Pass in the file name of the sprite sheet. """
