@@ -11,6 +11,7 @@ Whoever lost all the 100 health lost the game.
 
 contol:
 AWSD and up down lefdt right
+
 Introduction:
 This is my EE551-B python individual project.
 Author: Hongbo Li
