@@ -9,6 +9,8 @@ the predetor sign chage every 20 second.
 both player start with 100 health and hit DMG of 10.
 Whoever lost all the 100 health lost the game.
 
+contol:
+AWSD and up down lefdt right
 Introduction:
 This is my EE551-B python individual project.
 Author: Hongbo Li
